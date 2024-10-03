@@ -1,0 +1,5 @@
+Pandas==2.1.4
+Matplotlib==3.8.0
+Seaborn==0.12.2
+Streamlit==1.30.0
+
